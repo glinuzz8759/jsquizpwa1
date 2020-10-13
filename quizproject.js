@@ -14,7 +14,7 @@ function shade() {
 		document.getElementById("h1").style.color = "#7DF9FF";
 		document.getElementById("para").style.color = "#7DF9FF";
 		document.getElementById("p1").style.color = "#7DF9FF";
-		document.getElementById("p2").style.color = "#7DF9FF";
+		document.getElementById("score").style.color = "#7DF9FF";
 	} else {
 		document.body.style.backgroundColor = "#FEF8EC";
 		document.getElementById("left").style.color = "black";
@@ -28,7 +28,7 @@ function shade() {
 		document.getElementById("h1").style.color = "#F4442E";
 		document.getElementById("para").style.color = "#F4442E";
 		document.getElementById("p1").style.color = "#F4442E";
-		document.getElementById("p2").style.color = "#F4442E";
+		document.getElementById("score").style.color = "#F4442E";
 	}
 	/*if (d.getHours() >= 18 || d.getHours() < 8) {
 	
